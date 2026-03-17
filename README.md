@@ -14,3 +14,7 @@ I did a simulated IT Help Desk network troubleshooting lab using a Windows 10 VM
 ## Tracert
 ### In my lab, the 'tracert' command was used to trace the route of google.com, which is what we used the 'ping' command for. It simulated the network path and helped to identify if there were any delays or interruptions between the source and the destination.
 ! [Tracert](https://github.com/gseabroo/network-troubleshooting-lab/blob/main/tracert.png)
+
+## Netstat
+### In my lab, the 'netstat -ano' command was used to review active network connections and identify which processes were communicating over the network. It helped to show how to monitor system activity and to detect if there are any unusual connections.
+! [Netstat](https://github.com/gseabroo/network-troubleshooting-lab/blob/main/netstat.png)
