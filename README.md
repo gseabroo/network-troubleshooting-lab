@@ -4,5 +4,5 @@ I did a simulated IT Help Desk network troubleshooting lab using a Windows 10 VM
 
 # Screenshots
 ## IP Configuration
-### This step is usually the first action taken in network troubleshooting because it tells whether the issue is to IP Assignment, gateway configuration, or DNS Resolution. In my lab, the 'ipconfig /all' command was used to examine the full network configuration of the system. 
+### This step is usually the first action taken in network troubleshooting because it tells whether the issue is related to IP Assignment, gateway configuration, or DNS Resolution. In my lab, the 'ipconfig /all' command was used to examine the full network configuration of the system. 
 ! [IP Config](https://github.com/gseabroo/network-troubleshooting-lab/blob/main/ipconfig.png)
