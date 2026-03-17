@@ -3,5 +3,5 @@ I did a simulated IT Help Desk network troubleshooting lab using a Windows 10 VM
 
 
 # Screenshots
-## IP Configuartion
+## IP Configuration
 ! [IP Config](https://github.com/gseabroo/network-troubleshooting-lab/blob/main/ipconfig.png)
