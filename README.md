@@ -18,3 +18,7 @@ I did a simulated IT Help Desk network troubleshooting lab using a Windows 10 VM
 ## Netstat
 ### In my lab, the 'netstat -ano' command was used to review active network connections and identify which processes were communicating over the network. It helped to show how to monitor system activity and to detect if there are any unusual connections.
 ! [Netstat](https://github.com/gseabroo/network-troubleshooting-lab/blob/main/netstat.png)
+
+## DNS Flush
+### In my lab, the 'ipconfig /flushdns' command was used to clear the DNS cache as part of troubleshooting a connectivity issue. A DNS Flush clears the saved website address information so that it can make room for the computer to update the data.
+! [DNS Flush](https://github.com/gseabroo/network-troubleshooting-lab/blob/main/flushdns.png)
